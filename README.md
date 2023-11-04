@@ -23,8 +23,8 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/aslinsjr/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [GitHub Page](https://aslinsjr.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
